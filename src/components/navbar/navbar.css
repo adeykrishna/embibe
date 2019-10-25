@@ -1,0 +1,14 @@
+.navbar{
+    background-color:#3b3e8c !important;
+}
+.orderby {
+    display: inline-flex;
+}
+
+.dropdwon {
+    margin: 10px;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 253, 253, 0.9);
+}

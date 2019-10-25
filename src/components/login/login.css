@@ -1,0 +1,22 @@
+.login {
+    border: 1px #CCC solid;
+    padding: 56px;
+    display: inline-grid;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 300px;
+    background: #3b3e8c !important;
+    height: 300px;
+    margin: auto;
+}
+
+
+
+.login input {
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+}
